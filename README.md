@@ -1,0 +1,1 @@
+In this task, you will explore image generation using pre-trained AI models. By providing a text prompt, models like Stable Diffusion or DALL·E-mini will generate realistic or artistic images. This helps understand how generative models convert textual input into visual content.
